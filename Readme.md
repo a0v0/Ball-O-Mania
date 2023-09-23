@@ -1,14 +1,17 @@
 # Ball-O-Mania
 
-First game of my life that I created when I was in high school. This Game was created by Unity3D game engine.
+Frist game created as a passion project that I created when I was in high school. This Game was created by Unity3D game engine.
 
-Built with: Unity3D
+> Built with [Unity](https://unity.com/)
+## Screenshots
+<img src="https://play-lh.googleusercontent.com/i3vgauH3rbWADJjNkt3SbXOnYPPi2LRfXuuAEo6SxvR5CNu87xe2E4asbJYd_BZ8ga_4=w2560-h1440-rw" width="45%"></img> <img src="https://play-lh.googleusercontent.com/WlnM4n0cai0PC_VZInC_R4Sq3L5pLmYopqfrC501uvbQul1H7wn66QjfBBcnmXo56Y0=w2560-h1440-rw" width="45%"></img> 
 ## Download
-Direct APK: [Download from GitHub](https://github.com/a0v0/Ball-O-Mania/releases/download/v1.0.4/ballomania_v1.0.4.apk)
-Playstore: [Download from Playstore](https://play.google.com/store/apps/details?id=com.starland.ballomania)
+
+- `Direct APK`: [Download from GitHub](https://github.com/a0v0/Ball-O-Mania/releases/download/v1.0.4/ballomania_v1.0.4.apk)
+- `Playstore`: [Download from Playstore](https://play.google.com/store/apps/details?id=com.starland.ballomania)
 
 
-## Important Note
+## Background
 
 When I uploaded this repo to git I enabled git lfs. Now when I tried to clone the repo locally, and ran `git lfs fetch --all`, lfs objects went missing.
 
