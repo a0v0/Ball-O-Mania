@@ -1,4 +1,4 @@
-# Ball-O-Mania
+# 🏀 Ball-O-Mania
 
 Frist game created as a passion project that I created when I was in high school. This Game was created by Unity3D game engine.
 
